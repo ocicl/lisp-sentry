@@ -1,0 +1,10 @@
+* lisp-sentry
+
+A full-featured Common Lisp client library for Sentry application
+monitoring software.
+
+|---------+-----------------------------------------------|
+| source  | git:https://gitlab.com/lockie/lisp-sentry.git |
+| commit  | db48f67a                                      |
+| systems | lisp-sentry                                   |
+|---------+-----------------------------------------------|
