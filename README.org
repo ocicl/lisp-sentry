@@ -5,6 +5,6 @@ monitoring software.
 
 |---------+-----------------------------------------------|
 | source  | git:https://gitlab.com/lockie/lisp-sentry.git |
-| commit  | db48f67a                                      |
+| commit  | db48f67                                       |
 | systems | lisp-sentry                                   |
 |---------+-----------------------------------------------|
